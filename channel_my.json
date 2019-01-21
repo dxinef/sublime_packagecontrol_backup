@@ -1,0 +1,30 @@
+{
+    "schema_version": "3.0.0",
+    "repositories": [
+      "https://localhost/storage/repository.json"
+    ],
+    "packages_cache": {
+        "https://localhost/storage/repository.json": [
+            {
+                "name": "dxinefOpenFolder",
+                "description": "a simple plugin for sublimetext to open the folder in the left side bar.",
+                "authors": ["dxinef"],
+                "homepage": "https://github.com/dxinef/sublime-openFolder",
+                "previous_names": null,
+                "labels": [],
+                "readme": "https://raw.githubusercontent.com/dxinef/sublime-openFolder/master/README.md",
+                "issues": null,
+                "donate": null,
+                "buy": null,
+                "releases": [
+                {
+                    "platforms": ["*"],
+                    "sublime_text": "*",
+                    "version": "0.0.1",
+                    "url": "https://codeload.github.com/dxinef/sublime-openFolder/zip/master",
+                    "date": "2019-01-20 00:00:00"
+                }]
+            }
+        ]
+    }
+}
