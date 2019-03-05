@@ -1,0 +1,35 @@
+{
+  "schema_version": "3.0.0",
+  "packages": [
+    {
+        "name": "dxinefOpenFolder",
+        "description": "a simple plugin for sublimetext to open the folder in the left side bar.",
+        "authors": ["dxinef"],
+        "homepage": "https://github.com/dxinef/sublime-openFolder",
+        "readme": "https://raw.githubusercontent.com/dxinef/sublime-openFolder/master/README.md",
+        "releases": [
+        {
+            "platforms": ["*"],
+            "sublime_text": "*",
+            "version": "0.0.1",
+            "url": "https://codeload.github.com/dxinef/sublime-openFolder/zip/master",
+            "date": "2019-01-20 00:00:00"
+        }]
+    },
+    {
+      "name": "dxinefSassBuilder",
+      "details": "https://github.com/dxinef/sublime-sass-builder",
+      "homepage": "https://github.com/dxinef/sublime-sass-builder",
+      "author": "dxinef",
+      "labels": ["build system"],
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true,
+          "version": "0.0.2",
+          "url": "https://codeload.github.com/dxinef/sublime-sass-builder/zip/master"
+        }
+      ]
+    }
+  ]
+}
